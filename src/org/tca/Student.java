@@ -20,5 +20,9 @@ public class Student {
 	}
 	public void algebra() {
 		System.out.println("a+b");
+		
+	}
+	public void diffrential() {
+		System.out.println("a1209");
 	}
 }
