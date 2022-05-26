@@ -12,4 +12,10 @@ public class Student {
 	public void mul() {
 		System.out.println("mul");
 	}
+	public void div() {
+		System.out.println("div");
+	}
+	public void practice() {
+		System.out.println("kan");
+	}
 }
