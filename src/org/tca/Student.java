@@ -18,4 +18,7 @@ public class Student {
 	public void practice() {
 		System.out.println("kan");
 	}
+	public void algebra() {
+		System.out.println("a+b");
+	}
 }
